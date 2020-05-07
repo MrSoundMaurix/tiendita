@@ -6,9 +6,9 @@
 
 
 	define('BASEPATH', '/tiendita/');
-	define('URL'     , 'http://127.0.0.1' . BASEPATH);
+	define('URL'     , 'https://tienda-1.herokuapp.com/' . BASEPATH);
 
-	define('base_url'     , 'http://127.0.0.1' . BASEPATH . 'index.php');
+	define('base_url'     , 'https://tienda-1.herokuapp.com/' . BASEPATH . 'index.php');
 
 
 	/* Constantes para los archivos */
