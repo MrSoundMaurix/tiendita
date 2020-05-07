@@ -5,7 +5,7 @@
 	//session_destroy();
 
 
-	define('BASEPATH', '/tiendita/');
+	define('BASEPATH', '/tienda-1.herokuapp/');
 	define('URL'     , 'https://tienda-1.herokuapp.com/' . BASEPATH);
 
 	define('base_url'     , 'https://tienda-1.herokuapp.com/' . BASEPATH . 'index.php');
